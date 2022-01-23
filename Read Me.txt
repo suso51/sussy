@@ -1,0 +1,7 @@
+Kinda Crazy Craft Server Setup:
+
+1. Change "eula=false" to "eula=true" in eula.txt
+
+2. Run 'run.bat'
+
+3. Have Fun
